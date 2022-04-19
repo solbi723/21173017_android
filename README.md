@@ -22,10 +22,8 @@
 # 6주차(2022-04-12)
 
 
-<img width="400" height="300" src="./pic/21173017_7st 이미지2높이.jpg"><img/>
-<img width="400" height="300" src="./pic/21173017_7st 이미지2넓이.jpg"><img/>
-<img width="400" height="300" src="./pic/21173017_7st 이미지1높이.jpg"><img/>
-<img width="400" height="300" src="./pic/21173017_7st 이미지1넓이.jpg"><img/>
+<img width="300" height="300" src="./pic/7st_높이.jpg"><img/>
+<img width="300" height="300" src="./pic/7st_넓이.jpg"><img/>
 
 
 
