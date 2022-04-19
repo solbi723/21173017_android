@@ -22,9 +22,9 @@
 # 6주차(2022-04-12)
 
 
-<img width="300" height="300" src="./pic/6st_높이.jpg"><img/>
-<img width="300" height="300" src="./pic/6st_넓이.jpg"><img/>
-<img width="300" height="300" src="./pic/6st_소스파일.jpg"><img/>
+<img width="310" height="300" src="./pic/6st_높이.jpg"><img/>
+<img width="310" height="300" src="./pic/6st_넓이.jpg"><img/>
+<img width="310" height="300" src="./pic/6st_소스파일.jpg"><img/>
 
 
 
