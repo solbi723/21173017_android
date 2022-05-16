@@ -26,6 +26,11 @@
 <img width="310" height="300" src="./pic/6st_넓이.jpg"><img/>
 <img width="310" height="300" src="./pic/6st_소스파일.jpg"><img/>
 
+# 10주차(2022-05-10)
+<img width="310" height="300" src="./pic/결과1.jpg"><img/>
+<img width="310" height="300" src="./pic/결과2.jpg"><img/>
+
+
 
 
 
